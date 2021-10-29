@@ -14,7 +14,7 @@ Bot Setup (needed for bot token and to set bot details)
 5. Save this bot token to be inserted into the python code
 6. Replace the bot token string in the python code to your bot token string
 7. Have a server that you have bot invite privileges for. Make a yourself a new server if needed.
-8. Click on OAuth2 in the side navigation of [this page](https://discord.com/developers/applications)
+8. Click on OAuth2 in the side navigation of your application page
 9. On OAuth2 page scroll down to the big rectangle with checkboxes labeled 'scopes' right above it. Checkmark 'bot' and click copy for the generated Url.
 10. The generated Url is the invite link. When anyone signed in to discord visits this url they have the option to add the bot to one of their servers.
 11. Once the bot is added, run the python code and it should work
